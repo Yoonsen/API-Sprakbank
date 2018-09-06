@@ -18,9 +18,11 @@ Annika Rockenberger
 
 …
 
-## Events
+## [Events](https://github.com/Yoonsen/API-Sprakbank/wiki/Workshops)
 
-…
+### 2018
+
+Kick-Off Hackathon
 
 ## [License](https://github.com/Yoonsen/API-Sprakbank/edit/master/License.md)
 
