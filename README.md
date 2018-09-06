@@ -25,6 +25,8 @@
 
 [Growth Chart API](https://github.com/Yoonsen/API-Sprakbank/blob/master/growth.md)
 
+[URN Frequence API](https://github.com/Yoonsen/API-Sprakbank/blob/master/urnfreq.md)
+
 ## Contributors
 
 [Lars Johnson](https://github.com/Yoonsen)
