@@ -17,15 +17,17 @@
 
 [Count](https://github.com/Yoonsen/API-Sprakbank/blob/master/count.md)
 
+[Frequences](https://github.com/Yoonsen/API-Sprakbank/blob/master/freq.md)
+
 ## Contributors
 
-Lars Johnson
+[Lars Johnson](https://github.com/Yoonsen)
 
-Yngvil Beyer
+[Yngvil Beyer](https://github.com/Yngvil)
 
-Sopie Arneberg
+[Sofie Arneberg](https://github.com/SofArn)
 
-Annika Rockenberger
+[Annika Rockenberger](https://github.com/arockenberger)
 
 ## Content
 
