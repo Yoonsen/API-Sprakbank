@@ -15,6 +15,8 @@
 
 [Collocation](https://github.com/Yoonsen/API-Sprakbank/blob/master/collocation.md)
 
+[Count](https://github.com/Yoonsen/API-Sprakbank/blob/master/count.md)
+
 ## Contributors
 
 Lars Johnson
