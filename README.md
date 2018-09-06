@@ -31,6 +31,8 @@
 
 [URN API](https://github.com/Yoonsen/API-Sprakbank/blob/master/urn.md)
 
+[URN Concordance API](https://github.com/Yoonsen/API-Sprakbank/blob/master/urnkonk.md)
+
 ## Contributors
 
 [Lars Johnson](https://github.com/Yoonsen)
