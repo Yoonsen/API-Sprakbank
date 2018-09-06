@@ -9,6 +9,8 @@
 
 [Named Entity Recognition API](https://github.com/Yoonsen/API-Sprakbank/blob/master/ner.md)
 
+[N-Gram API](https://github.com/Yoonsen/API-Sprakbank/blob/master/ngram.md)
+
 ## Contributors
 
 Lars Johnson
