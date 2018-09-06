@@ -29,6 +29,4 @@ def vekstdiagram(urn, params=dict()):
     r = requests.post('https://api.nb.no/ngram/vekstdiagram', json = para)
     return pd.DataFrame(r.json())
 
-def get_freq(urn, top=50, cutoff=3):
-    r = requests.get("https://api.nb.no/ngram/urnfreq", json={'urn':urn, 'top':top, 'cutoff':cutoff})
-    return Counter(dict(r.json()))
+
