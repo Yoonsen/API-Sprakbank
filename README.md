@@ -25,7 +25,7 @@
 
 [Yngvil Beyer](https://github.com/Yngvil)
 
-[Sofie Arneberg](https://github.com/SofArn)
+[Sofie Arneberg](https://github.com/SofArne)
 
 [Annika Rockenberger](https://github.com/arockenberger)
 
