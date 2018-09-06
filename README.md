@@ -31,14 +31,14 @@ print('initialisert')
 
 
 
+Selve adressen er https://api.nb.no/ngram
 
-
 @application.route('/')
 def hello_world():
     return 'Trendlinjer og konkordanser: /ngram?word=...., eller /konk?word=...&corpus=...&offset='
 
 
-
+
 @application.route('/ner', methods=['POST'])
 def named_entity():
     parameters = request.json
@@ -49,8 +49,9 @@ def named_entity():
     result =  ner(text, dist)
     return jsonify(result)
 
-
+
 @application.route('/ngram')
+
 def ngram_request():
     word = request.args.get('word')
     corpus = request.args.get('corpus')
