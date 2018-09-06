@@ -11,13 +11,15 @@
 
 [N-Gram API](https://github.com/Yoonsen/API-Sprakbank/blob/master/ngram.md)
 
-[Concordance](https://github.com/Yoonsen/API-Sprakbank/blob/master/konk.md)
+[Concordance API](https://github.com/Yoonsen/API-Sprakbank/blob/master/konk.md)
 
-[Collocation](https://github.com/Yoonsen/API-Sprakbank/blob/master/collocation.md)
+[Collocation API](https://github.com/Yoonsen/API-Sprakbank/blob/master/collocation.md)
 
-[Count](https://github.com/Yoonsen/API-Sprakbank/blob/master/count.md)
+[Wordcount API](https://github.com/Yoonsen/API-Sprakbank/blob/master/count.md)
 
-[Frequences](https://github.com/Yoonsen/API-Sprakbank/blob/master/freq.md)
+[Frequences API](https://github.com/Yoonsen/API-Sprakbank/blob/master/freq.md)
+
+[Meta API[(https://github.com/Yoonsen/API-Sprakbank/blob/master/meta.md)
 
 ## Contributors
 
