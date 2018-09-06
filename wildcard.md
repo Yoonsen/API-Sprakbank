@@ -1,6 +1,8 @@
 
 # Wildcard API
 
+@application.route('/wildcards')
+
 ```
 def wildcard_search():
     books = "/disk1/bokhylla/digibok/book_words.db"
