@@ -1,3 +1,6 @@
+
+Her kommer det litt tekst som endrer filen.
+
 # API-Sprakbank
 
 API-fulltekst NB
