@@ -57,8 +57,8 @@ def ngram_request():
             result = ngram_bok_tot( cond_word=cond_word, period=period, topic=topic, ddk=ddk)
     
     return jsonify(result)
-    ```
-    
+```
+
     **Title**
 ----
   <_Additional information about your API call. Try to use verbs that match both request type (fetching vs modifying) and plurality (one vs multiple)._>
