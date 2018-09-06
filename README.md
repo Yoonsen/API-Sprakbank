@@ -11,7 +11,7 @@
 
 [N-Gram API](https://github.com/Yoonsen/API-Sprakbank/blob/master/ngram.md)
 
-[Concordances](https://github.com/Yoonsen/API-Sprakbank/blob/master/konk.md)
+[Concordance](https://github.com/Yoonsen/API-Sprakbank/blob/master/konk.md)
 
 ## Contributors
 
