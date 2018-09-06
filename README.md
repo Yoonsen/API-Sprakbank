@@ -13,6 +13,8 @@
 
 [Concordance](https://github.com/Yoonsen/API-Sprakbank/blob/master/konk.md)
 
+[Collocation](https://github.com/Yoonsen/API-Sprakbank/blob/master/collocation.md)
+
 ## Contributors
 
 Lars Johnson
