@@ -1,6 +1,7 @@
 
 # Wildcard API
 
+<code>
 def wildcard_search():
     books = "/disk1/bokhylla/digibok/book_words.db"
     wildword = request.args.get('word')
@@ -9,3 +10,4 @@ def wildcard_search():
     limit= int(xstr(request.args.get('limit'),50))
     res = wildcard_hub(wildword, factor=factor, freq_lim=freq_lim, limit=limit)
     return jsonify(dict(res))
+</code>
