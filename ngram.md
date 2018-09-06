@@ -1,6 +1,6 @@
 # N-gram API
 
-@application.route('/ngram'
+@application.route('/ngram')
 
 ```
 def ngram_request():
