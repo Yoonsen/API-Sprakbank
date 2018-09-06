@@ -7,6 +7,8 @@
 
 [Wildcard Search API](https://github.com/Yoonsen/API-Sprakbank/blob/master/wildcard.md)
 
+[Named Entity Recognition API](https://github.com/Yoonsen/API-Sprakbank/blob/master/ner.md)
+
 ## Contributors
 
 Lars Johnson
