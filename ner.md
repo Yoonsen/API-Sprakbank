@@ -1,4 +1,4 @@
-#Named Entity Recognition API
+# Named Entity Recognition API
 
 @application.route('/ner', methods=['POST'])
 
