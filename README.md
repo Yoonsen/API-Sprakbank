@@ -21,6 +21,8 @@
 
 [Meta API](https://github.com/Yoonsen/API-Sprakbank/blob/master/meta.md)
 
+[Network Graph API](https://github.com/Yoonsen/API-Sprakbank/blob/master/graph.md)
+
 ## Contributors
 
 [Lars Johnson](https://github.com/Yoonsen)
