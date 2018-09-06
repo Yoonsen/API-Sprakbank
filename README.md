@@ -19,7 +19,7 @@
 
 [Frequences API](https://github.com/Yoonsen/API-Sprakbank/blob/master/freq.md)
 
-[Meta API[(https://github.com/Yoonsen/API-Sprakbank/blob/master/meta.md)
+[Meta API](https://github.com/Yoonsen/API-Sprakbank/blob/master/meta.md)
 
 ## Contributors
 
