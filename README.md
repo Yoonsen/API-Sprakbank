@@ -29,6 +29,8 @@
 
 [Newspaper Frequence API](https://github.com/Yoonsen/API-Sprakbank/blob/master/avisfreq.md)
 
+[URN API](https://github.com/Yoonsen/API-Sprakbank/blob/master/urn.md)
+
 ## Contributors
 
 [Lars Johnson](https://github.com/Yoonsen)
