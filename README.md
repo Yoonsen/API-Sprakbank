@@ -23,6 +23,8 @@
 
 [Network Graph API](https://github.com/Yoonsen/API-Sprakbank/blob/master/graph.md)
 
+[Growth Chart API](https://github.com/Yoonsen/API-Sprakbank/blob/master/growth.md)
+
 ## Contributors
 
 [Lars Johnson](https://github.com/Yoonsen)
