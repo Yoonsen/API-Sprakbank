@@ -3,6 +3,9 @@
 ## About this repository
 
 …
+## APIs
+
+[Wildcard Search API](https://github.com/Yoonsen/API-Sprakbank/blob/master/wildcard.md)
 
 ## Contributors
 
